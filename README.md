@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Finanças Pessoais Web (SGFP-Web)
 
-Projeto em desenvolvimento. Tecnologias aplicadas: Java, Java Spring Boot, MySQL, MySqlConnector, HTML, CSS, Javascript, JQuery, Hibernate, Thymeleaf, Maven.
+Projeto em desenvolvimento. Tecnologias aplicadas: Java, Java Spring Boot, MySQL, MySqlConnector, HTML, CSS, Javascript, Bootstrap, JQuery, Hibernate, Thymeleaf, Maven.
 
 Software que busca auxiliar no controle de suas despesas. Possui funcionalidades como: conexão com banco de dados, tabela de despesas, filtro, cadastro e remoção de despesas, notificações.
 
