@@ -6,7 +6,7 @@ Software que busca auxiliar no controle de suas despesas. Possui funcionalidades
 
 Feito por Eduardo Bitencourt da Silva.
 
-# Como usar?
+# Como utilizar este sistema?
 
 ### Siga os seguintes passos:
 
@@ -43,4 +43,4 @@ Feito por Eduardo Bitencourt da Silva.
   
     * Digite ```http://localhost:8080```;
   
-    * Faça login usando um dos usuários já configurados no banco.
+    * Faça login usando um dos usuários já configurados no banco. O nome de usuário e a senha são iguais ao tipo de conta: use admin/admin para o administrador e user/user para o usuário comum.
