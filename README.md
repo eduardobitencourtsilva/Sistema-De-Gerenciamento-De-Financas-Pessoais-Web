@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Finanças Pessoais Web (SGFPW)
+# Sistema de Gerenciamento de Finanças Pessoais Web (SGFP-Web)
 
 Projeto em desenvolvimento. Tecnologias aplicadas: Java, Java Spring Boot, MySQL, MySqlConnector, HTML, CSS, Javascript, JQuery, Hibernate, Thymeleaf, Maven.
 
