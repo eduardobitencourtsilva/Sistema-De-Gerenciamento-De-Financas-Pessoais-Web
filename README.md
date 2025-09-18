@@ -1,12 +1,12 @@
-# Sistema de Gerenciamento de Finanças Pessoais Web (SGFPW)
+# Sistema de Gerenciamento de Finanças Pessoais Web (SGFP-Web)
 
-Projeto em desenvolvimento. Tecnologias aplicadas: Java, Java Spring Boot, MySQL, MySqlConnector, HTML, CSS, Javascript, JQuery, Hibernate, Thymeleaf, Maven.
+Projeto em desenvolvimento. Tecnologias aplicadas: Java, Java Spring Boot, MySQL, MySqlConnector, HTML, CSS, Javascript, Bootstrap, JQuery, Hibernate, Thymeleaf, Maven.
 
 Software que busca auxiliar no controle de suas despesas. Possui funcionalidades como: conexão com banco de dados, tabela de despesas, filtro, cadastro e remoção de despesas, notificações.
 
 Feito por Eduardo Bitencourt da Silva.
 
-# Como usar?
+# Como utilizar este sistema?
 
 ### Siga os seguintes passos:
 
@@ -37,10 +37,13 @@ Feito por Eduardo Bitencourt da Silva.
 
     * Execute por meio do NetBeans, IDE de sua preferência ou pelo próprio Maven (na linha de comando).
 
-5. Acessando o sistema
+5. Acessando e utilizando o sistema
 
     * Abra o navegador;
   
     * Digite ```http://localhost:8080```;
   
-    * Faça login usando um dos usuários já configurados no banco.
+    * Faça login usando um dos usuários já configurados no banco. O nome de usuário e a senha são iguais ao tipo de conta: use admin/admin para o administrador e user/user para o usuário comum.
+
+### Detalhe sobre as notificações: 
+* As notificações de despesas são exibidas no navegador ao permanecer na página onde foram configuradas, sendo necessário manter a página aberta para recebê-las.
