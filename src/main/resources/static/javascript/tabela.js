@@ -5,7 +5,7 @@ $(document).ready(function () {
                let despesa = data[i];
 
                let id = $("<td>").text(despesa.id);
-               let valor = $("<td>").text(despesa.valor);
+               let valor = $("<td>").text("R$ " + despesa.valor.toFixed(2).replace(".", ","));
                let nome = $("<td>").text(despesa.nome);
                let tipo = $("<td>").text(despesa.tipo);
                let categoria = $("<td>").text(despesa.categoria);
@@ -13,7 +13,7 @@ $(document).ready(function () {
 
                let tr = $("<tr>")
                        .attr("data-id", despesa.id)
-                       .append(id, valor, nome, tipo, categoria, status);
+                       .append(id, nome, valor, tipo, categoria, status);
                $("#tabelaDespesas tbody").append(tr);
         }
     }
